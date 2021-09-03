@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314332986039",
+    "project_id": "my-memory-622c7",
+    "storage_bucket": "my-memory-622c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314332986039:android:9dae9b4500a35d8cc46b32",
+        "android_client_info": {
+          "package_name": "com.much1030.fritz2_memory_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314332986039-4l5h42nut602nhffhr5i6s7vou1luvga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClvN9i0aRlsrxD9RNWWKzQe8pQt4q3HPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314332986039-4l5h42nut602nhffhr5i6s7vou1luvga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
